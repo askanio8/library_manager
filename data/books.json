@@ -1,0 +1,16 @@
+[
+    {
+        "id": "bb225d64-65ee-4734-b654-e8723ebfe598",
+        "title": "Adventures of",
+        "author": "Mark",
+        "year": 1888,
+        "status": "available"
+    },
+    {
+        "id": "ed27699a-96b9-4535-a2a0-aefc760ff01e",
+        "title": "Children",
+        "author": "Jules",
+        "year": 1885,
+        "status": "available"
+    }
+]
